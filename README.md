@@ -1,6 +1,6 @@
 ### 💚 이정연 leeeeeyeon
 
-🤔 백엔드 개발, 클라우드, DevOps에 관심이 많습니다. <br>
+🤔 백엔드 개발에 관심이 많습니다. <br>
 🔭 현재 Spring boot를 중심으로 백엔드 공부에 집중하고 있습니다 😁 <br>
 <br>
 <a href="https://velog.io/@leeeeeyeon"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>

@@ -18,7 +18,7 @@
 
 </p>
 
-<h4>Backend & DevOps</h4>
+<h4>Backend</h4>
 <p>
 <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">

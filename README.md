@@ -1,7 +1,7 @@
 ## Lee Jeong Yeon, Server Developer
 
 ### 👩🏻‍💻 About Me
-- Inha University Information and Communitcation Engineering (2020.03~2025.02)
+- Inha University Information and Communication Engineering (2020.03 ~ 2025.02)
 - Software Maestro 14th (2023.04 ~ 2023.12)
 - Interested in Backend Development & Cloud Architecting
 

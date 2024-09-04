@@ -1,7 +1,5 @@
-## Lee Jeong Yeon, Server Developer
-
 ### 👩🏻‍💻 About Me
-- Inha University Information and Communication Engineering (2020.03 ~ 2025.02)
+- Information and Communication Engineering (2020.03 ~ 2025.02)
 - Software Maestro 14th (2023.04 ~ 2023.12)
 - Interested in Backend Development & Cloud Architecting
 
@@ -15,7 +13,8 @@
 <a target="_blank"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/></a>
 
 <a target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=GithubActions&logoColor=white"/></a>
 
 <a target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>

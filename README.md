@@ -1,7 +1,7 @@
 ### 👩🏻‍💻 About Me
 - Information and Communication Engineering (2020.03 ~ 2025.02)
 - Software Maestro 14th (2023.04 ~ 2023.12)
-- Interested in Backend Development & Cloud Architecting
+- Interested in Backend Development, DevOps, and Cloud Architecting
 
 ### 📖 Tech Skills
 <a target="_blank"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/></a>

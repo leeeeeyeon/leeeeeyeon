@@ -1,7 +1,14 @@
 ### 👩🏻‍💻 About Me
-- Information and Communication Engineering (2020.03 ~ 2025.02)
-- Software Maestro 14th (2023.04 ~ 2023.12)
-- Interested in Backend Development, DevOps, and Cloud Architecting
+- Majored in Information and Communication Engineering (2020.03 ~ 2025.02)
+- Interested in Backend Development, DevOps, and Cloud Architecting 👾
+
+### 📚 Experience
+|Activity|Period|
+|:------:|:-----:|
+| Software Maestro 14th Mentee | 2023.04 ~ 2023.12  | 
+| IT Club CMC Server Part | 2023.12 ~ 2024.02 |
+| IT Club UMC University Lead | 2022.03 ~ 2022.08 |
+| IT Club UMC Spring Boot Part | 2021.09 ~ 2022.02 |
 
 ### 📖 Tech Skills
 <a target="_blank"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
